@@ -1,0 +1,4 @@
+#Mon Apr 08 12:40:45 EEST 2019
+base.0=E\:\\_projects\\_unit\\uf_bird_mvc\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
